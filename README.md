@@ -97,6 +97,3 @@ The main goal was to improve practical experience with full-stack development, m
 ## 👨‍💻 Author
 
 Kevin G. Ferreira
-
-GitHub:  
-https://github.com/kevinho-7
