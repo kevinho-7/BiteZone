@@ -1,5 +1,7 @@
 # BiteZone 🍔
 
+<img src="https://flagcdn.com/64x48/br.png" width="25"> [**`Portuguese Version`**](./README.pt.md)
+
 > Academic project developed for the **Dotnet Development** course as part of my Software Development degree program.
 
 BiteZone is a modern restaurant ordering web application built with Blazor Web App and ASP.NET Core.  
