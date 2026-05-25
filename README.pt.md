@@ -1,5 +1,7 @@
 # BiteZone 🍔
 
+<img src="https://flagcdn.com/20x15/us.png" width="25"> [**`English Version`**](./README.md)
+
 > Projeto acadêmico desenvolvido para a disciplina de **Dotnet Development** como parte do curso de Desenvolvimento de Software.
 
 BiteZone é uma aplicação web moderna de pedidos para restaurantes desenvolvida com Blazor Web App e ASP.NET Core.  
