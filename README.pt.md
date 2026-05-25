@@ -94,33 +94,6 @@ O principal objetivo foi aprimorar habilidades práticas em desenvolvimento full
 
 ---
 
-## ▶️ Executando o Projeto
-
-### Pré-requisitos
-
-- .NET 10 SDK
-- MongoDB
-
-### Clonar o repositório
-
-```bash
-git clone https://github.com/kevinho-7/BiteZone.git
-```
-
-### Acessar a pasta do projeto
-
-```bash
-cd BiteZone
-```
-
-### Executar a aplicação
-
-```bash
-dotnet run
-```
-
----
-
 ## 📸 Páginas da Aplicação
 
 - Login
