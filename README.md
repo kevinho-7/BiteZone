@@ -94,47 +94,6 @@ The main goal was to improve practical experience with full-stack development, m
 
 ---
 
-## ▶️ Running the Project
-
-### Prerequisites
-
-- .NET 10 SDK
-- MongoDB
-
-### Clone the repository
-
-```bash
-git clone https://github.com/kevinho-7/BiteZone.git
-```
-
-### Navigate to the project folder
-
-```bash
-cd BiteZone
-```
-
-### Run the application
-
-```bash
-dotnet run
-```
-
----
-
-## 📸 Application Pages
-
-- Login
-- Register
-- Menu
-- Cart
-- Orders
-- Profile
-- About
-- Contact
-- Admin Panel
-
----
-
 ## 👨‍💻 Author
 
 Kevin G. Ferreira
