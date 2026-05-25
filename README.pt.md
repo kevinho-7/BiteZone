@@ -4,7 +4,7 @@
 
 > Projeto acadêmico desenvolvido para a disciplina de **Dotnet Development** como parte do curso de Desenvolvimento de Software.
 
-BiteZone é uma aplicação web moderna de pedidos para restaurantes desenvolvida com Blazor Web App e ASP.NET Core.  
+BiteZone é uma aplicação web de pedidos para restaurantes desenvolvida com Blazor Web App e ASP.NET Core.  
 O projeto foi criado com o objetivo de praticar conceitos de desenvolvimento full-stack utilizando C#, arquitetura baseada em componentes, autenticação e integração com banco de dados.
 
 A aplicação oferece uma experiência completa no estilo de restaurante/delivery, permitindo que usuários naveguem pelo cardápio, gerenciem um carrinho de compras, criem pedidos, realizem autenticação de conta e acessem áreas protegidas do sistema.
