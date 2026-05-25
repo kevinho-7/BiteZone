@@ -4,7 +4,7 @@
 
 > Academic project developed for the **Dotnet Development** course as part of my Software Development degree program.
 
-BiteZone is a modern restaurant ordering web application built with Blazor Web App and ASP.NET Core.  
+BiteZone is a restaurant ordering web application built with Blazor Web App and ASP.NET Core.  
 The project was developed as a university project with the goal of practicing full-stack development concepts using C#, component-based architecture, authentication, and database integration.
 
 The application provides a complete restaurant-style experience where users can browse menu items, manage a shopping cart, create orders, authenticate accounts, and access protected areas of the system.
